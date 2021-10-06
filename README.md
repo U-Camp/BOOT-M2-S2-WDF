@@ -10,13 +10,13 @@
 
 ## **ÍNDICE**
 
-* [Git: Sistema de Control de Versiones](https://github.com/U-Camp/BOOT-M1-SEM2-WDF#git-sistema-de-control-de-versiones)
+* [Introducción a Git: Sistema de Control de Versiones](https://github.com/U-Camp/BOOT-M1-SEM2-WDF#git-sistema-de-control-de-versiones)
   * [Agregar Cambios](https://github.com/U-Camp/BOOT-M1-SEM2-WDF#agregar-cambios) 
   * [Confirmar Cambios](https://github.com/U-Camp/BOOT-M1-SEM2-WDF#confirmar-cambios) 
 * [GitHub: Plataforma para Colaboración de Software](https://github.com/U-Camp/BOOT-M1-SEM2-WDF#github-plataforma-para-colaboraci%C3%B3n-de-software)
 
 
-# Git: Sistema de Control de Versiones
+# Introducción a Git: Sistema de Control de Versiones
 
 Git es una herramienta para el control de versiones.
 
@@ -30,6 +30,7 @@ Un proyecto normalmente se guarda en un servidor git de manera remota, al cual t
 
 [Presiona aquí para descargar una infografía, relacionada con el concepto anterior](https://github.com/U-Camp/BOOT-M1-SEM2/blob/main/infografia/S1_Infograf%C3%ADa%203_2.pdf)
 
+## Comandos Básicos de Git
 Para usar Git son suficientes unos cuantos comandos, por ejemplo, para inicializar git y que el proyecto en el que estemos trabajando empiece a ser rastreado, basta con escribir en la terminal dentro de la carpeta del proyecto que se quiera empezar a rastrear:
 
 `$ git init`
@@ -89,11 +90,11 @@ Para moverse y crear una rama en la cual se quiera empezar a trabajar se usa el 
 >#### El siguiente contenido va relacionado con GitHub que es la plataforma en donde estás viendo este contenido, tiene muchas funciones que en tu campo laboral podrás utilizar y te serán de gran ayuda, seguimos adelante...
 
 
-# GitHub: Plataforma para Colaboración de Software
+# Introducción a GitHub: Plataforma para Colaboración de Software
 
 GitHub es una plataforma que nos permite colaborar con profesionales de desarrollo y como te comenté es la plataforma que actualmente estás utilizando para leer este contenido.
 
-Encuentra el sitio en: www.github.com
+Encuentra el sitio oficial en: www.github.com
 
 Una vez que accedes, registrarás una cuenta y, posteriormente, podrás explorar los diferentes proyectos abiertos que existen por comunidades, organizaciones e incluso conectar con más personas.
 
