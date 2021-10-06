@@ -2,8 +2,8 @@
 
 # M1S2: Git y GitHub.
 
-> #### ¡Hola!, ¿qué tal?, ¿cómo te sientes?, ¿qué te han parecido las clases sabatinas?
-> #### Recuerda que, si tienes alguna duda, cuentas con tus coaches que podrán ayudarte al respecto y a quienes les podrás escribir desde la pestaña publicaciones en Teams para aclarar las dudas que tengas.
+> #### ¡Hola!👋🏻🤖 ¿Qué tal? ¿Cómo te sientes? ¿Qué te ha parecido el contenido que has aprendido hasta el día de hoy?🤗
+> #### Recuerda que si tienes alguna duda, cuentas con los foros de discusión en Microsoft Teams para que escribas tus dudas y entre tus compañeros puedan ayudarte a disiparlas.
 > #### A continuación, seguimos con el contenido correspondiente a este módulo, en donde conoceremos Git, los comandos básicos más comunes que debes de conocer de este controlador de versiones y su flujo de trabajo. Además, daremos un repaso breve por GitHub y haremos nuestro primer repositorio.🤩💻
 > #### Iniciemos…
 
@@ -46,7 +46,7 @@ Finalmente, si se ocupa realizar una sincronización del código local con el c�
 
 El término **origin** normalmente hace referencia a la URL del servidor git remoto; este comando obtiene los últimos cambios de la rama remota (normalmente master o develop) y los mezcla automáticamente con la rama de trabajo actual.
 
-## Agregar cambios
+## Agregar Cambios
 
 Cuando estamos trabajando cambios en `git`, una vez inicializada la carpeta con `git init`, es importante prepararlos para que se guarden en el historial de cambios.
 
@@ -59,7 +59,7 @@ Esto permite guardar los cambios en un estado de preparación. Es decir, aún no
 `git status`
 
 
-## Confirmar cambios
+## Confirmar Cambios
 
 Una vez que tenemos un conjunto de cambios preparados para confirmarse dentro del historial de cambios, lo que haremos es aplicar el siguiente comando:
 
