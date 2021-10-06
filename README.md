@@ -10,7 +10,7 @@
 
 ## **ÍNDICE**
 
-* [Introducción a Git: Sistema de Control de Versiones](https://github.com/U-Camp/BOOT-M1-SEM2-WDF#git-sistema-de-control-de-versiones)
+* [Introducción a Git: Sistema de Control de Versiones](https://github.com/U-Camp/BOOT-M1-SEM2-WDF#introduccion-a-git-sistema-de-control-de-versiones)
   * [Agregar Cambios](https://github.com/U-Camp/BOOT-M1-SEM2-WDF#agregar-cambios) 
   * [Confirmar Cambios](https://github.com/U-Camp/BOOT-M1-SEM2-WDF#confirmar-cambios) 
 * [GitHub: Plataforma para Colaboración de Software](https://github.com/U-Camp/BOOT-M1-SEM2-WDF#github-plataforma-para-colaboraci%C3%B3n-de-software)
