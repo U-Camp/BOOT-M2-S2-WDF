@@ -46,7 +46,7 @@ Finalmente, si se ocupa realizar una sincronización del código local con el c�
 
 `$ git pull origin <rama_remota>`
 
-El término **origin** normalmente hace referencia a la URL del servidor git remoto; este comando obtiene los últimos cambios de la rama remota (normalmente master o develop) y los mezcla automáticamente con la rama de trabajo actual.
+El término **origin** normalmente hace referencia a la URL del servidor git remoto; este comando obtiene los últimos cambios de la rama remota (normalmente main o develop) y los mezcla automáticamente con la rama de trabajo actual.
 
 ## Agregar Cambios
 
@@ -134,9 +134,9 @@ Ahora, `REPO_URL` lo sustituirás por la dirección `.git` que copiamos. Sería 
 
 - Una vez realizada la conexión remota, es momento de empujar nuestros cambios desde nuestra área local a una área remota. Esto lo haremos con:
 
-`git push origin master`
+`git push origin main`
 
-Con esto, subirán los cambios. Cabe destacar que `master` significa la rama en la cual nosotros queremos subir nuestros cambios. El repositorio de GitHub deberá ser similar al del área local constantemente para mantenernos actualizados.
+Con esto, subirán los cambios. Cabe destacar que `main` significa la rama en la cual nosotros queremos subir nuestros cambios. El repositorio de GitHub deberá ser similar al del área local constantemente para mantenernos actualizados.
 
 - Terminado esto, podremos recargar la página y ver nuestro proyecto en la plataforma de GitHub.
 
