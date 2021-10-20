@@ -29,7 +29,7 @@ En el 2005 Linus Torvalds, el creador del sistema operativo Linux, decidió crea
 
 Un proyecto normalmente se guarda en un servidor git de manera remota, al cual todos los miembros del equipo de desarrollo deben tener acceso. Al proyecto almacenado remotamente se le llama repositorio de código  y el uso de git permitirá manejar correctamente los cambios y rastrear todos y cada uno de ellos.
 
-[Presiona aquí para descargar una infografía, relacionada con el concepto anterior](https://github.com/U-Camp/BOOT-M1-SEM2/blob/main/infografia/S1_Infograf%C3%ADa%203_2.pdf)
+[Presiona aquí para descargar una infografía, relacionada con el concepto anterior](https://github.com/U-Camp/BOOT-M1-SEM2-WDF/blob/main/infografia/S1_Infograf%C3%ADa%203_2.pdf)
 
 ## Comandos Básicos de Git
 Para usar Git son suficientes unos cuantos comandos, por ejemplo, para inicializar git y que el proyecto en el que estemos trabajando empiece a ser rastreado, basta con escribir en la terminal dentro de la carpeta del proyecto que se quiera empezar a rastrear:
@@ -86,7 +86,7 @@ Para moverse y crear una rama en la cual se quiera empezar a trabajar se usa el 
 
 `$ git checkout -b <nombre_nueva_rama>`
 
->#### Si deseas consultar y descargar una infografía que explica un poco lo anterior, [presiona aquí](https://github.com/U-Camp/BOOT-M1-SEM2/blob/main/infografia/M1_S3_Infograf%C3%ADa%201_2.pdf)
+>#### Si deseas consultar y descargar una infografía que explica un poco lo anterior, [presiona aquí](https://github.com/U-Camp/BOOT-M1-SEM2-WDF/blob/main/infografia/M1_S3_Infograf%C3%ADa%201_2.pdf)
 >
 >#### El siguiente contenido va relacionado con GitHub que es la plataforma en donde estás viendo este contenido, tiene muchas funciones que en tu campo laboral podrás utilizar y te serán de gran ayuda, seguimos adelante...
 
