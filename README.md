@@ -1,6 +1,6 @@
 ![Banner](imagenes/banner.png)
 
-# M2S2: Git y GitHub.
+# WDF M2 S2: Git y GitHub
 
 > #### ¡Hola!👋🏻🤖 ¿Qué tal? ¿Cómo te sientes? ¿Qué te ha parecido el contenido que has aprendido hasta el día de hoy?🤗
 > #### Recuerda que si tienes alguna duda, cuentas con los foros de discusión en Microsoft Teams para que escribas tus dudas y entre tus compañeros puedan ayudarte a disiparlas.
