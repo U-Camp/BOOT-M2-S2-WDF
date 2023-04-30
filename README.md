@@ -143,3 +143,10 @@ Con esto, subirán los cambios. Cabe destacar que `main` significa la rama en la
 > #### Llegaste al final del contenido correspondiente a este módulo, recuerda repasar cada vez que sea necesario y prestar mucha atención a todo el contenido que tienes en  Microsoft Community Training. 
 > #### ¡Saludos!  :blush:
 
+
+
+Hola esta es mi presentacion:
+
+Mi nombre es Carlos Paz tengo 26 años, vivo en San Miguel de Allende , Gto.
+Trabajo en una compañia de globos aerostaticos, mis hoobies son: tocar guitarra, cantar, escuchar musica y aprender idiomas.
+Actualmente estudio Frances, Aleman y programacion web.
