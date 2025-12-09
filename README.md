@@ -140,6 +140,6 @@ Con esto, subirán los cambios. Cabe destacar que `main` significa la rama en la
 
 - Terminado esto, podremos recargar la página y ver nuestro proyecto en la plataforma de GitHub.
 
-> #### Llegaste al final del contenido correspondiente a este módulo, recuerda repasar cada vez que sea necesario y prestar mucha atención a todo el contenido que tienes en  Microsoft Community Training. 
+> #### Llegaste al final del contenido correspondiente a este módulo, recuerda repasar cada vez que sea necesario y prestar mucha atención a todo el contenido que tienes disponible. 
 > #### ¡Saludos!  :blush:
 
