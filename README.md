@@ -3,7 +3,7 @@
 # WDF M2 S2: Git y GitHub
 
 > #### ¡Hola!👋🏻🤖 ¿Qué tal? ¿Cómo te sientes? ¿Qué te ha parecido el contenido que has aprendido hasta el día de hoy?🤗
-> #### Recuerda que si tienes alguna duda, cuentas con los foros de discusión en Microsoft Teams para que escribas tus dudas y entre tus compañeros puedan ayudarte a disiparlas.
+> #### Recuerda que si tienes alguna duda, cuentas con los foros de discusión para que escribas tus dudas y entre tus compañeros puedan ayudarte a disiparlas.
 > #### A continuación, seguimos con el contenido correspondiente a este módulo, en donde conoceremos Git, los comandos básicos más comunes que debes de conocer de este controlador de versiones y su flujo de trabajo. Además, daremos un repaso breve por GitHub y haremos nuestro primer repositorio.🤩💻
 > #### Iniciemos…
 
